@@ -1,5 +1,5 @@
-# Cabeza repasando para el examen
-Cabeza
+# repasando para el examen
+Repositorio 
 
 ## descripcion
 Repo para repasar
